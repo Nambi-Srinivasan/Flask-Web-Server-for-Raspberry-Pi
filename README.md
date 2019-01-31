@@ -15,7 +15,7 @@ Then Open Terminal and Change to the App Directory.
 Execute the command,
 
 
-**sudo python3 web_server.py**
+**sudo python3 webserver.py**
 
 
 **NOTE:** Ensure that there is a proper internet connection
